@@ -19,7 +19,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Anime World</p>
+        <p>&copy; 2021 Anime World</p>
     </footer>
 </body>
 </html>
