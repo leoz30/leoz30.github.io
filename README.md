@@ -15,6 +15,8 @@
         <section>
             <h2>Featured Anime</h2>
             <img src="https://images.app.goo.gl/jqPJhW8jBNsJKz6B7" alt="Anime Image">
+            <img src="https://img.asmedia.epimg.net/resizer/v2/LTIVGUD6RZOQDDDTBEYXRUVATY.jpg?auth=39bf786b941aa432ece01051dbbaeff5d8a75523b6b10fd3ced66bf428f95814&width=1472&height=828&smart=true" alt="Anime Image">
+
             <p>Explore the exciting world of anime with our selection of popular shows and movies.</p>
         </section>
         <section>
