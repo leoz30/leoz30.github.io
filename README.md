@@ -17,6 +17,23 @@
             <img src="https://i.pximg.net/img-master/img/2024/05/04/11/49/10/118414972_p0_master1200.jpg" alt="Anime Image">
             <p>Explore the exciting world of anime with our selection of popular shows and movies.</p>
         </section>
+        <section>
+            <h2>Anime Suggestions</h2>
+            <ul>
+                <li>Naruto</li>
+                <li>One Piece</li>
+                <li>Attack on Titan</li>
+                <li>My Hero Academia</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Search for Anime</h2>
+            <form>
+                <label for="search">Search: </label>
+                <input type="text" id="search" name="search">
+                <button type="submit">Submit</button>
+            </form>
+        </section>
     </main>
     <footer>
         <p>&copy; 2021 Anime World</p>
