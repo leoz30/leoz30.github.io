@@ -24,6 +24,14 @@
                 <li>One Piece</li>
                 <li>Attack on Titan</li>
                 <li>My Hero Academia</li>
+                <li>Jujutsu Kaisen</li>
+                <li>One Punch Man</li>
+                <li>Death Note</li>
+                <li>Deliciousness in Dungeon</li>
+                <li>Horimiya</li>
+                <li>Violet EvergRDEN</li>
+                <li>Tonikaku Kawaii</li>
+                <li>Classroom of the Elite</li>
             </ul>
         </section>
         <section>
